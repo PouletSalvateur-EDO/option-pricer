@@ -43,3 +43,4 @@ The app will dynamically display:
 * The computed values for all the Greeks (Delta, Gamma, Theta, Vega, Rho).
 * Interactive plots showing how option prices and Greeks change in response to variations in input variables, allowing for detailed sensitivity analysis.
 
+
